@@ -10,7 +10,7 @@ sio = socketio.Client()
 secret_name = "mySecretName"
 
 # Connect to the Node.js server
-sio.connect('http://localhost:3000')
+sio.connect('https://candied-luck-domain.glitch.me/socket.io/?EIO=4&transport=websocket')
 
 # Register with the secret name
 @sio.event

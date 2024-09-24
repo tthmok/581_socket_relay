@@ -1,0 +1,6 @@
+{
+    "name": "581 Relay",
+    "description": "Simple message relay",
+    "repository": "https://github.com/tthmok/581_socket_relay",
+    "keywords": ["node", "websocket"]
+  }
